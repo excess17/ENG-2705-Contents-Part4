@@ -1,0 +1,15 @@
+id: 819
+contentType: BDG
+description: BDG - Text 1
+contentShape: |-
+  <div class="BDG-container text1">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

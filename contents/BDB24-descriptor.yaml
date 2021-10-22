@@ -1,0 +1,85 @@
+id: 10504
+typeCode: BDB
+description: Content BDB 24 description
+mainGroup: free
+status: PUBLIC
+listModel: '156'
+defaultModel: '157'
+attributes:
+  - code: longtext00
+    value: null
+    values:
+      en: <p>Architecto qui maiores illum quo rem reiciendis vel.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Architecto qui maiores illum quo rem reiciendis vel.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text04
+    value: null
+    values:
+      en: <p>Architecto qui maiores illum quo rem reiciendis vel.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext06
+    value: null
+    values:
+      en: <p>Architecto qui maiores illum quo rem reiciendis vel.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Architecto qui maiores illum quo rem reiciendis vel.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

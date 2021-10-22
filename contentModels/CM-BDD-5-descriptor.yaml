@@ -1,0 +1,15 @@
+id: 803
+contentType: BDD
+description: BDD - Banner
+contentShape: |-
+  <div class="BDD-container text3">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

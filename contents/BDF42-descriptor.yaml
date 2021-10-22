@@ -1,0 +1,99 @@
+id: 10842
+typeCode: BDF
+description: Content BDF 42 description
+mainGroup: free
+status: PUBLIC
+listModel: '180'
+defaultModel: '181'
+attributes:
+  - code: longtext05
+    value: null
+    values:
+      en: <p>Dolor ipsa cumque et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist03
+    value: null
+    values: {}
+    elements:
+      - code: monolist03
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist03
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: link02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Dolor ipsa cumque et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Dolor ipsa cumque et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

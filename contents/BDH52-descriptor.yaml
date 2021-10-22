@@ -1,0 +1,79 @@
+id: 11012
+typeCode: BDH
+description: Content BDH 52 description
+mainGroup: free
+status: PUBLIC
+listModel: '192'
+defaultModel: '193'
+attributes:
+  - code: longtext10
+    value: null
+    values:
+      en: <p>Veniam qui atque et animi nisi facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Veniam qui atque et animi nisi facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext05
+    value: null
+    values:
+      en: <p>Veniam qui atque et animi nisi facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text07
+    value: null
+    values:
+      en: <p>Veniam qui atque et animi nisi facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Veniam qui atque et animi nisi facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

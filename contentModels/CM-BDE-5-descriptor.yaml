@@ -1,0 +1,15 @@
+id: 809
+contentType: BDE
+description: BDE - Banner
+contentShape: |-
+  <div class="BDE-container text3">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

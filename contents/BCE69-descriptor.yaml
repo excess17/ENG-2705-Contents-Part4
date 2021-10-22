@@ -1,0 +1,91 @@
+id: 9989
+typeCode: BCE
+description: Content BCE 69 description
+mainGroup: free
+status: PUBLIC
+listModel: '114'
+defaultModel: '115'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Ipsum blanditiis velit perspiciatis id neque molestiae dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite11
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite11-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite11-boolean
+        value: null
+        values:
+          en: composite11 boolean field
+          it: composite11 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Ipsum blanditiis velit perspiciatis id neque molestiae dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Ipsum blanditiis velit perspiciatis id neque molestiae dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

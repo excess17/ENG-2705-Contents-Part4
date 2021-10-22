@@ -1,0 +1,15 @@
+id: 782
+contentType: BDA
+description: BDA - Details
+contentShape: |-
+  <div class="BDA-container details">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

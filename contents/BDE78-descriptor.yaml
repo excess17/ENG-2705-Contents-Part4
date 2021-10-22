@@ -1,0 +1,92 @@
+id: 10798
+typeCode: BDE
+description: Content BDE 78 description
+mainGroup: free
+status: PUBLIC
+listModel: '174'
+defaultModel: '175'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Dignissimos eos debitis qui omnis doloribus soluta laborum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite11
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite11-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite11-boolean
+        value: null
+        values:
+          en: composite11 boolean field
+          it: composite11 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: checkbox07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Dignissimos eos debitis qui omnis doloribus soluta laborum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext10
+    value: null
+    values:
+      en: <p>Dignissimos eos debitis qui omnis doloribus soluta laborum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Dignissimos eos debitis qui omnis doloribus soluta laborum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

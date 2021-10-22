@@ -1,0 +1,97 @@
+id: 8551
+typeCode: BAG
+description: Content BAG 71 description
+mainGroup: free
+status: PUBLIC
+listModel: '6'
+defaultModel: '7'
+attributes:
+  - code: longtext10
+    value: null
+    values:
+      en: <p>Repudiandae vero atque.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite01
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite01-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite01-boolean
+        value: null
+        values:
+          en: composite01 boolean field
+          it: composite01 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: checkbox02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Repudiandae vero atque.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Repudiandae vero atque.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
